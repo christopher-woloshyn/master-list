@@ -1,0 +1,23 @@
+﻿activity_name,req_weather,req_outdoors,is_walkable,drive_distance,covid_score,est_cost
+Beach,2,TRUE,TRUE,5,0,0
+Fenwick St. Park,2,TRUE,FALSE,10,0,1
+Northside Park,1,TRUE,TRUE,5,0,0
+Jolly Rogers Water Park,1,TRUE,FALSE,15,1,2
+Jolly Rogers Go Carts,1,TRUE,FALSE,15,0,2
+Jolly Rogers Amusement,1,TRUE,FALSE,20,1,1
+Boardwalk Shopping,0,FALSE,FALSE,20,1,1
+Boardwalk Cycling,1,TRUE,FALSE,20,0,1
+Boardwalk Arcades,0,FALSE,FALSE,20,1,1
+City Cycling,1,TRUE,TRUE,5,0,0
+Neighborhood Pool,1,TRUE,TRUE,0,1,0
+Mini Golf,0,FALSE,TRUE,10,0,1
+Grand Prix Go Carts,1,TRUE,FALSE,20,0,2
+Driving Range,1,TRUE,FALSE,20,0,1
+Climbing Gym,0,FALSE,FALSE,40,2,1
+Gym,0,FALSE,FALSE,15,2,1
+Seacrets,1,TRUE,FALSE,15,2,1
+Movie Theatre,0,FALSE,FALSE,5,2,1
+Parasailing,2,TRUE,FALSE,15,0,2
+Water Skiing,2,TRUE,FALSE,15,0,2
+Asseteague St. Park,1,TRUE,FALSE,35,0,1
+Visit Nonnie,0,FALSE,TRUE,5,1,0

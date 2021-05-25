@@ -1,0 +1,178 @@
+{
+  "Beach": {
+    "req_weather": 2,
+    "req_outdoors": true,
+    "is_walkable": true,
+    "drive_distance": 5,
+    "covid_score": 0,
+    "est_cost": 0
+  },
+  "Fenwick St. Park": {
+    "req_weather": 2,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 10,
+    "covid_score": 0,
+    "est_cost": 1
+  },
+  "Northside Park": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": true,
+    "drive_distance": 5,
+    "covid_score": 0,
+    "est_cost": 0
+  },
+  "Jolly Rogers Water Park": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 15,
+    "covid_score": 1,
+    "est_cost": 2
+  },
+  "Jolly Rogers Go Carts": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 15,
+    "covid_score": 0,
+    "est_cost": 2
+  },
+  "Jolly Rogers Amusement": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 20,
+    "covid_score": 1,
+    "est_cost": 1
+  },
+  "Boardwalk Shopping": {
+    "req_weather": 0,
+    "req_outdoors": false,
+    "is_walkable": false,
+    "drive_distance": 20,
+    "covid_score": 1,
+    "est_cost": 1
+  },
+  "Boardwalk Cycling": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 20,
+    "covid_score": 0,
+    "est_cost": 1
+  },
+  "Boardwalk Arcades": {
+    "req_weather": 0,
+    "req_outdoors": false,
+    "is_walkable": false,
+    "drive_distance": 20,
+    "covid_score": 1,
+    "est_cost": 1
+  },
+  "City Cycling": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": true,
+    "drive_distance": 5,
+    "covid_score": 0,
+    "est_cost": 0
+  },
+  "Neighborhood Pool": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": true,
+    "drive_distance": 0,
+    "covid_score": 1,
+    "est_cost": 0
+  },
+  "Mini Golf": {
+    "req_weather": 0,
+    "req_outdoors": false,
+    "is_walkable": true,
+    "drive_distance": 10,
+    "covid_score": 0,
+    "est_cost": 1
+  },
+  "Grand Prix Go Carts": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 20,
+    "covid_score": 0,
+    "est_cost": 2
+  },
+  "Driving Range": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 20,
+    "covid_score": 0,
+    "est_cost": 1
+  },
+  "Climbing Gym": {
+    "req_weather": 0,
+    "req_outdoors": false,
+    "is_walkable": false,
+    "drive_distance": 40,
+    "covid_score": 2,
+    "est_cost": 1
+  },
+  "Gym": {
+    "req_weather": 0,
+    "req_outdoors": false,
+    "is_walkable": false,
+    "drive_distance": 15,
+    "covid_score": 2,
+    "est_cost": 1
+  },
+  "Seacrets": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 15,
+    "covid_score": 2,
+    "est_cost": 1
+  },
+  "Movie Theatre": {
+    "req_weather": 0,
+    "req_outdoors": false,
+    "is_walkable": false,
+    "drive_distance": 5,
+    "covid_score": 2,
+    "est_cost": 1
+  },
+  "Parasailing": {
+    "req_weather": 2,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 15,
+    "covid_score": 0,
+    "est_cost": 2
+  },
+  "Water Skiing": {
+    "req_weather": 2,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 15,
+    "covid_score": 0,
+    "est_cost": 2
+  },
+  "Asseteague St. Park": {
+    "req_weather": 1,
+    "req_outdoors": true,
+    "is_walkable": false,
+    "drive_distance": 35,
+    "covid_score": 0,
+    "est_cost": 1
+  },
+  "Visit Nonnie": {
+    "req_weather": 0,
+    "req_outdoors": false,
+    "is_walkable": true,
+    "drive_distance": 5,
+    "covid_score": 1,
+    "est_cost": 0
+  }
+}

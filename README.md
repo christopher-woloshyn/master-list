@@ -26,7 +26,7 @@ This is a list of activities for Ocean City 2021
 - Asseteague St. Park
 - Visit Nonnie
 
-For more information on the details of each activities, there are JSON and CSV documents containing more information on each activity.
+For more information on the details of each activities, there are JSON and CSV documents available.
 
 ## Data Dictionary
 | Field Name     | Type | Description |
